@@ -20,7 +20,7 @@ function Footer(){
           <li><a href="">Blog</a></li>
         </ul>  
       </div>
-      <div clasName="footer-tags">
+      <div className="footer-tags">
         <i className="fa-brands fa-facebook"></i>
         <i className="fa-brands fa-instagram"></i>
         <i className="fa-brands fa-twitter"></i>
